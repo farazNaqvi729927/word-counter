@@ -1,38 +1,141 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+
+@media (max-width:1280px) {
+
+  .form-control {
+    font-size: 30px;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .a1280 {
+    font-size: 25px;
   }
-  to {
-    transform: rotate(360deg);
+
+
+  .b1280 {
+    font-size: 25px;
   }
+
+
+  .c1280 {
+    font-size: 25px;
+  }
+
+
+  .bu1280{
+    font-size: 20px;
+  }
+
+
+  .t1280{
+    font-size: 30px;
+  }
+
+  .m1280{
+    font-size: 25px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:1440px) {
+
+  .form-control {
+    font-size: 30px;
+  }
+
+
+  .a1440 {
+    font-size: 28px;
+  }
+
+
+  .b1440 {
+    font-size: 28px;
+  }
+
+
+  .c1440 {
+    font-size: 28px;
+  }
+
+
+  .bu1440{
+    font-size: 25px;
+  }
+
+
+  .t1440{
+    font-size: 40px;
+  }
+
+  .m1440{
+    font-size: 35px;
+  }
+
+
+  .h1440{
+    font-size: 40px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:1920px) {
+
+  .form-control {
+    font-size: 40px;
+  }
+
+
+  .a1920 {
+    font-size: 32px;
+  }
+
+
+  .b1920 {
+    font-size: 32px;
+  }
+
+
+  .c1920 {
+    font-size: 32px;
+  }
+
+
+  .bu1920{
+    font-size: 30px;
+  }
+
+
+  .t1920{
+    font-size: 50px;
+  }
+
+  .m1920{
+    font-size: 45px;
+  }
+
+
+  .h1920{
+    font-size: 60px;
+  }
+
 }
